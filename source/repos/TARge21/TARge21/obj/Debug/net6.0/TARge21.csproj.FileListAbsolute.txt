@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\TARge21\TARge21\obj\Debug\net6.0\TARge21.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TARge21\TARge21\obj\Debug\net6.0\TARge21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TARge21\TARge21\obj\Debug\net6.0\TARge21.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TARge21\TARge21\obj\Debug\net6.0\TARge21.AssemblyInfo.cs
+C:\Users\user\source\repos\TARge21\TARge21\obj\Debug\net6.0\TARge21.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TARge21\TARge21\obj\Debug\net6.0\TARge21.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\TARge21\TARge21\obj\Debug\net6.0\TARge21.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\TARge21\TARge21\obj\Debug\net6.0\TARge21.RazorAssemblyInfo.cs
